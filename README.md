@@ -1,9 +1,11 @@
-### Olá Visitante, me chamo Iago Intra!
+<h1 align='center'>
+  Olá, me chamo Iago Intra
+</h1>
 
 <div align="center">
   <a href="https://github.com/iagointra">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iagointra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagointra&theme=algolia"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=iagointra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagointra&theme=algolia"/>
 </div>
 
 <div>
