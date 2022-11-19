@@ -2,11 +2,11 @@
   Hi, welcome to my profile!
 </h1>
 
-<div align="center">
+<h1 align="center">
   <a href="https://github.com/iagointra">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iagointra&show_icons=true&theme=algolia&include_all_commits=true"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagointra&theme=algolia"/>
-</div>
+</h1>
 
 <div align="center">
   <a href ="mailto:iago2.vix@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
