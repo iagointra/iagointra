@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, welcome to my profile! 🥰
+  Hi, welcome to my profile!
 </h1>
 
 <div align="center">
